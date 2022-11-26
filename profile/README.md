@@ -27,7 +27,7 @@
 
 
 ## ✨ Qwik + x Sites
-- Qwik + Three.js / [Github](https://github.com/qwik-design/qwik-three) / [Website](https://johnqwik.netlify.app/)
+- Qwik + Three.js / [Github](https://github.com/qwik-design/qwik-three) / [Website](https://qwik-three.netlify.app/)
 - Qwik + Web3auth - WIP
 - Qwik + Tailwind - WIP
 

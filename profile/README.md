@@ -28,15 +28,23 @@
 
 ## ✨ Qwik + x Sites
 - Qwik + Three.js / [Github](https://github.com/qwik-design/qwik-three) / [Website](https://qwik-three.netlify.app/)
-- Qwik + Web3auth - WIP
+- Qwik + Web3auth / [Github](https://github.com/qwik-design/qwik-web3auth) / [Website](https://qwik-web3auth.netlify.app/) - WIP
 - Qwik + Tailwind - WIP
 
 
+## 🚧  Roadmap
+- Design a logo
+- Create a website
+- Create a documentation
+- Qwik + Web3auth
+- Qwik + Tailwind
+- Qwik Samples
 
 ## 💡Ideas
 - QwikPress
 - QwikBlog
 - Qwik + Firebase
+- Qwik Loader
 
 
 ## 🍿 Fun facts

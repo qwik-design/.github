@@ -15,21 +15,22 @@
 - [Mitosis](https://github.com/BuilderIO/mitosis)
 - [Builder.io](https://www.builder.io/)
 - [Qwik VS Code Snippets](https://marketplace.visualstudio.com/items?itemName=johnreemar.vscode-qwik-snippets)
-- [Awesome Qwik](https://github.com/qwik-design/awesome-qwik)
+- [Awesome Qwik](https://github.com/qwikverse/awesome-qwik)
 
 ## 🚀 Projects
-- [Awesome Qwik](https://github.com/qwik-design/awesome-qwik)
-- [VSCode Qwik Snippets](https://github.com/qwik-design/vscode-qwik-snippets)
-- [Qwik Lottie](https://github.com/qwik-design/qwik-lottie)
-- [Qwik Rive](https://github.com/qwik-design/qwik-rive)
-- [Qwikverse Website](https://github.com/qwik-design/qwik-land) - WIP
-- [Qwik Samples](https://github.com/qwik-design/qwik-samples) - WIP
+- [Awesome Qwik](https://github.com/qwikverse/awesome-qwik)
+- [VSCode Qwik Snippets](https://github.com/qwikverse/vscode-qwik-snippets)
+- [Qwik Lottie](https://github.com/qwikverse/qwik-lottie)
+- [Qwik Rive](https://github.com/qwikverse/qwik-rive)
+- [Qwikverse Website](https://github.com/qwikverse/qwik-land) - WIP
+- [Qwik Samples](https://github.com/qwikverse/qwik-samples) - WIP
 
 
 ## ✨ Qwik + x Sites
-- Qwik + Three.js / [Github](https://github.com/qwik-design/qwik-three) / [Website](https://qwik-three.netlify.app/)
-- Qwik + Web3auth / [Github](https://github.com/qwik-design/qwik-web3auth) / [Website](https://qwik-web3auth.netlify.app/) - WIP
+- Qwik + Three.js / [Github](https://github.com/qwikverse/qwik-three) / [Website](https://qwik-three.netlify.app/)
+- Qwik + Web3 Auth / [Github](https://github.com/qwikverse/qwik-web3auth) / [Website](https://qwik-web3auth.netlify.app/) - WIP
 - Qwik + Tailwind - WIP
+- Qwik + Firebase Auth - WIP
 
 
 ## 🚧  Roadmap

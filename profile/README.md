@@ -40,6 +40,7 @@
 
 ### 📖 API/Database
 - Qwik + Prism
+- Qwik + NestJs
 
 ## 🚧  Roadmap
 - Design a logo
@@ -54,6 +55,7 @@
 - QwikBlog
 - Qwik + Firebase
 - Qwik Loader
+- Qwik Microfrontends and Cloudflare Workers
 
 
 ## 🍿 Fun facts

@@ -34,11 +34,11 @@
 ### 🖌️ Design
 - Qwik + Tailwind - WIP
 - Qwik + Bootstrap
-## ✨ Authentication
+### ✨ Authentication
 - Qwik + Web3 Auth / [Github](https://github.com/qwikverse/qwik-web3auth) / [Website](https://qwik-web3auth.netlify.app/) - WIP
 - Qwik + Firebase Auth - WIP
 
-## API/Database
+### 📖 API/Database
 - Qwik + Prism
 
 ## 🚧  Roadmap

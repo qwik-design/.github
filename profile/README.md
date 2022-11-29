@@ -18,20 +18,28 @@
 - [Awesome Qwik](https://github.com/qwikverse/awesome-qwik)
 
 ## 🚀 Projects
+### 🧑‍💻 DX
 - [Awesome Qwik](https://github.com/qwikverse/awesome-qwik)
 - [VSCode Qwik Snippets](https://github.com/qwikverse/vscode-qwik-snippets)
-- [Qwik Lottie](https://github.com/qwikverse/qwik-lottie)
-- [Qwik Rive](https://github.com/qwikverse/qwik-rive)
-- [Qwikverse Website](https://github.com/qwikverse/qwik-land) - WIP
 - [Qwik Samples](https://github.com/qwikverse/qwik-samples) - WIP
 
-
-## ✨ Qwik + x Sites
+### ⏳ Animation/3D
+- [Qwik Lottie](https://github.com/qwikverse/qwik-lottie)
+- [Qwik Rive](https://github.com/qwikverse/qwik-rive)
 - Qwik + Three.js / [Github](https://github.com/qwikverse/qwik-three) / [Website](https://qwik-three.netlify.app/)
-- Qwik + Web3 Auth / [Github](https://github.com/qwikverse/qwik-web3auth) / [Website](https://qwik-web3auth.netlify.app/) - WIP
+
+### 📚 Documentation
+- [Qwikverse Website](https://github.com/qwikverse/qwik-land) - WIP
+
+### 🖌️ Design
 - Qwik + Tailwind - WIP
+- Qwik + Bootstrap
+## ✨ Authentication
+- Qwik + Web3 Auth / [Github](https://github.com/qwikverse/qwik-web3auth) / [Website](https://qwik-web3auth.netlify.app/) - WIP
 - Qwik + Firebase Auth - WIP
 
+## API/Database
+- Qwik + Prism
 
 ## 🚧  Roadmap
 - Design a logo

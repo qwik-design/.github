@@ -1,23 +1,32 @@
-## Hi there! Welcome to Qwikverse 👋
+##  👋 Hi there! Welcome to Qwikverse
 
 - 🙋‍♀️ Qwikverse is dedicated to create projects and websites using [Qwik](https://qwik.builder.io/) ⚡.
+
+<details>
+<summary>Table of Contents</summary>
+
+- [👋 Hi there! Welcome to Qwikverse](#-hi-there-welcome-to-qwikverse)
+- [🌈 Contribution guidelines](#-contribution-guidelines)
+- [🚀 Projects/Websites](#-projectswebsites)
+  - [🧑‍💻 DX](#-dx)
+  - [⏳ Animation/3D](#-animation3d)
+  - [📚 Documentation](#-documentation)
+  - [🖌️ Design](#️-design)
+  - [✨ Authentication](#-authentication)
+  - [📖 API/Database](#-apidatabase)
+- [🚧  Roadmap](#--roadmap)
+- [💡Ideas](#ideas)
+- [👩‍💻 Useful resources](#-useful-resources)
+- [🍿 Fun facts](#-fun-facts)
+- [🧙 Remember, you can be Qwik ⚡](#-remember-you-can-be-qwik-)
+
+</details>
 
 ## 🌈 Contribution guidelines
 - Please read our [contributing.md](../contributing.md)
 
-## 👩‍💻 Useful resources
-- [Qwik Docs](https://qwik.builder.io/)
-- [Discord](https://qwik.builder.io/chat)
-- [Qwik GitHub](https://github.com/BuilderIO/qwik)
-- [@QwikDev](https://twitter.com/QwikDev)
-- [Vite](https://vitejs.dev/)
-- [Partytown](https://partytown.builder.io/)
-- [Mitosis](https://github.com/BuilderIO/mitosis)
-- [Builder.io](https://www.builder.io/)
-- [Qwik VS Code Snippets](https://marketplace.visualstudio.com/items?itemName=johnreemar.vscode-qwik-snippets)
-- [Awesome Qwik](https://github.com/qwikverse/awesome-qwik)
 
-## 🚀 Projects
+## 🚀 Projects/Websites
 ### 🧑‍💻 DX
 - [Awesome Qwik](https://github.com/qwikverse/awesome-qwik)
 - [VSCode Qwik Snippets](https://github.com/qwikverse/vscode-qwik-snippets)
@@ -59,6 +68,22 @@
 - Qwik Loader
 - Qwik Microfrontends and Cloudflare Workers
 
+## 👩‍💻 Useful resources
+- [Qwik Docs](https://qwik.builder.io/)
+- [Qwik Discord](https://qwik.builder.io/chat)
+- [Qwik City](https://qwik.builder.io/qwikcity/overview/)
+- [Qwik Media](https://qwik.builder.io/media/)
+- [Qwik Examples](https://qwik.builder.io/examples/introduction/hello-world/)
+- [Qwik Tutorials](https://qwik.builder.io/tutorial/welcome/overview/)
+- [Qwik GitHub](https://github.com/BuilderIO/qwik)
+- [@QwikDev](https://twitter.com/QwikDev)
+- [Vite](https://vitejs.dev/)
+- [Partytown](https://partytown.builder.io/)
+- [Mitosis](https://github.com/BuilderIO/mitosis)
+- [Builder.io](https://www.builder.io/)
+- [Qwik VSCode Snippets](https://marketplace.visualstudio.com/items?itemName=johnreemar.vscode-qwik-snippets)
+- [Awesome Qwik](https://github.com/qwikverse/awesome-qwik)
+
 
 ## 🍿 Fun facts
 - johnQwik⚡ likes geopolitics, economics and drones.
@@ -66,4 +91,6 @@
 - [Twitter](https://twitter.com/johnreemarx)
 - [Website](https://johnqwik.com) - WIP
 
-### 🧙 Remember, you can be Qwik ⚡
+## 🧙 Remember, you can be Qwik ⚡
+- [Qwik Sites Showcase](https://qwik.builder.io/showcase/) 
+- [Performance Insights](https://www.builder.io/c/performance-insights)

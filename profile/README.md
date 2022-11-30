@@ -30,13 +30,15 @@
 
 ### 📚 Documentation
 - [Qwikverse Website](https://github.com/qwikverse/qwik-land) - WIP
+- Qwikpress
 
 ### 🖌️ Design
-- Qwik + Tailwind - WIP
+- Qwik + Tailwind
 - Qwik + Bootstrap
 ### ✨ Authentication
 - Qwik + Web3 Auth / [Github](https://github.com/qwikverse/qwik-web3auth) / [Website](https://qwik-web3auth.netlify.app/) - WIP
-- Qwik + Firebase Auth - WIP
+- Qwik + Firebase Auth
+- Qwik + Auth0
 
 ### 📖 API/Database
 - Qwik + Prism

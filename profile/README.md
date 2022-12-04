@@ -1,3 +1,6 @@
+![qwik-verse-github](https://user-images.githubusercontent.com/4918140/205487288-62f1278a-8e67-4b89-a79f-b8e72603f81d.png)
+
+
 ##  👋 Hi there! Welcome to Qwikverse
 
 - 🙋‍♀️ Qwikverse is dedicated to create projects and websites using [Qwik](https://qwik.builder.io/) ⚡.
@@ -12,7 +15,8 @@
   - [⏳ Animation/3D](#-animation3d)
   - [📚 Documentation](#-documentation)
   - [🖌️ Design](#️-design)
-  - [✨ Authentication](#-authentication)
+  - [✨ Authentication](#-authentication)![Uploading qwik-verse-github.png…]()
+
   - [📖 API/Database](#-apidatabase)
 - [🚧  Roadmap](#--roadmap)
 - [💡Ideas](#ideas)

@@ -1,4 +1,4 @@
-![qwik-verse-github](https://user-images.githubusercontent.com/4918140/205487288-62f1278a-8e67-4b89-a79f-b8e72603f81d.png)
+<img width="1250" alt="Screenshot 2022-12-04 at 7 34 11 PM" src="https://user-images.githubusercontent.com/4918140/205488136-51b73672-11a9-4c18-8ae4-ba7167baac31.png">
 
 
 ##  👋 Hi there! Welcome to Qwikverse
